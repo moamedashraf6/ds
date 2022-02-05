@@ -314,7 +314,14 @@ hr{
     }
 }
 
-
+@media(max-width:495px){
+    .features{
+        margin-left: 20%;
+    }
+    .about-content .text{
+        width: 250px;
+    }
+}
 
 
 /* iPads, Tablets */
@@ -336,7 +343,18 @@ hr{
     }
 }
 
-
+@media(max-width:443px){
+    .portfolio .portfolio-content{
+        text-align: center;
+    }
+    .portfolio .portfolio-content .card img{
+        height: 250px;
+        width: 100%;
+    }
+    .features{
+        margin-left: 20%;
+    }
+}
 
 /* mobile devices */
 
