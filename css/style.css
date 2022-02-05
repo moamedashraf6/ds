@@ -396,6 +396,18 @@ footer p{
     text-align: center;        
     }
 
+        .features .container .feat p{
+        font-size: 16px;
+      
+    }
+    
+    .features .container .feat h3{
+        font-size: 20px;
+    }
+    
+    .features .container .feat i{
+        font-size: 35px;
+    }
     .services .services-content .srv i{
         text-align: center;
         right: -20px;
